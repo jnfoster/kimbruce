@@ -1,6 +1,6 @@
 ## BruceFest
 
-A Festschrift in honor of Kim Bruce!
+![Kim Bruce](bruce-kim-2006.jpeg) A Festschrift in honor of Kim Bruce!
 
 ### Organizers
 
