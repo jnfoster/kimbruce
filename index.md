@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## BruceFest
 
-A Festscrift in honor of Kim Bruce!
+A Festschrift in honor of Kim Bruce!
 
 ### Organizers
 
