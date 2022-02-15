@@ -1,4 +1,4 @@
-## BruceFest
+## BruceFest --- Friday, January 13th, 2023
 
 ![Kim Bruce](bruce-kim-2006.jpg){: style="margin-right:10px; float: left"}
 
@@ -13,6 +13,8 @@ Pomona College, Claremont, CA
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.8972446297134!2d-117.714072384716!3d34.097772722776625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c331bfa6a0b645%3A0x8d4dc76d6821a77e!2sPomona%20College!5e0!3m2!1sen!2sus!4v1644319521656!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Agenda
+
+BruceFest will take place on Friday, January 13th, 2023.
 
 TBD
 
