@@ -12,7 +12,7 @@ Pomona College, Claremont, CA
 
 ![Mason Hall](mason-hall.jpg)
 
-Photo Credit: [Nostalgicwisdom](https://commons.wikimedia.org/w/index.php?title=User:Nostalgicwisdom&action=edit&redlink=1) (CC BY-SA 3.0)[https://creativecommons.org/licenses/by-sa/3.0/deed.en]
+Photo Credit: [Nostalgicwisdom](https://commons.wikimedia.org/w/index.php?title=User:Nostalgicwisdom&action=edit&redlink=1) under a [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.
 
 ## Agenda
 
