@@ -8,29 +8,40 @@ Over a career spanning six decades, Kim has had an amazing impact as a researche
 
 ## Location
 
-Pomona College, Claremont, CA
-
 ![Mason Hall](mason-hall.jpg)
 
 Photo Credit: [Nostalgicwisdom](https://commons.wikimedia.org/w/index.php?title=User:Nostalgicwisdom&action=edit&redlink=1) under a [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.
 
+[Estella 1051/Argue Auditorium](https://www.pomona.edu/map/?id=523#!m/54436) at Pomona College, Claremont, CA; reception to follow
+
+<iframe src="https://www.pomona.edu/map/?id=523#!m/54436" width="100%" height="100%" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe>
+
 ## Agenda
 
-BruceFest will take place on Friday, January 13th, 2023.
+BruceFest will take place on Friday, January 13th, 2023. You can submit a talk by emailing [Michael Greenberg](mailto:michael.greenberg@stevens.edu). Please indicate your talks topic:
 
-TBD
+  - [ ] Object-oriented programming and foundations
+  - [ ] Natural language semantics
+  - [ ] Pedagogy
+  - [ ] Community building
+  - [ ] Personal memories of Kim 
+
+as well as a rough talk length:
+
+  - [ ] Short (< 10 minutes)
+  - [ ] Full (20-30 minutes)
 
 ## Travel
 
-TBD
+Pomona College is in Claremont, CA, in the northeast corner of Los Angeles County. The Ontario, California airport (ONT) provides convenient access (<20min taxi), though LAX, BUR, LGB, and SNA are all within a 1-2 hour drive.
 
 ## Hotels
 
-TBD
+The [Doubletree](https://www.hilton.com/en/hotels/ontcldt-doubletree-claremont/) and [Casa 425](https://www.casa425.com/) are both recommended.
 
 ## Organizers
 
-* Andrew Black (Portland State)
-* Nate Foster (Cornell)
-* Michael Greenberg (Stevens)
-* James Noble (Victoria)
+* [Andrew Black (Portland State)](http://web.cecs.pdx.edu/~black/)
+* [Nate Foster (Cornell)](https://www.cs.cornell.edu/~jnfoster/)
+* [Michael Greenberg (Stevens)](https://greenberg.science/)
+* [James Noble (Victoria)](https://homepages.ecs.vuw.ac.nz/~kjx/)
