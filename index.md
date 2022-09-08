@@ -18,18 +18,18 @@ Photo Credit: [Nostalgicwisdom](https://commons.wikimedia.org/w/index.php?title=
 
 ## Agenda
 
-BruceFest will take place on Friday, January 13th, 2023. You can submit a talk by emailing [Michael Greenberg](mailto:michael.greenberg@stevens.edu). Please indicate your talks topic:
+BruceFest will take place on Friday, January 13th, 2023. You can submit a talk by emailing [Michael Greenberg](mailto:michael.greenberg@stevens.edu). Please indicate your talk's topic:
 
-  - [ ] Object-oriented programming and foundations
-  - [ ] Natural language semantics
-  - [ ] Pedagogy
-  - [ ] Community building
-  - [ ] Personal memories of Kim 
+  - Object-oriented programming and foundations
+  - Natural language semantics
+  - Pedagogy
+  - Community building
+  - Personal memories of Kim 
 
 as well as a rough talk length:
 
-  - [ ] Short (< 10 minutes)
-  - [ ] Full (20-30 minutes)
+  - Short (< 10 minutes)
+  - Full (20-30 minutes)
 
 ## Travel
 
