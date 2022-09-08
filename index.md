@@ -14,7 +14,7 @@ Photo Credit: [Nostalgicwisdom](https://commons.wikimedia.org/w/index.php?title=
 
 [Estella 1051/Argue Auditorium](https://www.pomona.edu/map/?id=523#!m/54436) at Pomona College, Claremont, CA; reception to follow
 
-<iframe src="https://www.pomona.edu/map/?id=523#!m/54436" width="100%" height="100%" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe>
+<iframe src="https://www.pomona.edu/map/?id=523#!m/54436" width="100%" height="750px" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe>
 
 ## Agenda
 
