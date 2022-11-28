@@ -16,20 +16,26 @@ Photo Credit: [Nostalgicwisdom](https://commons.wikimedia.org/w/index.php?title=
 
 <iframe src="https://www.pomona.edu/map/?id=523#!m/54436" width="100%" height="750px" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe>
 
-## Agenda
+## Tentative Agenda for Friday, January 13th, 2023
 
-BruceFest will take place on Friday, January 13th, 2023. You can submit a talk by emailing [Michael Greenberg](mailto:michael.greenberg@stevens.edu). Please indicate your talk's topic:
+| Time | Topic |
+| :---------- | :------------------------------------------------- |
+| 9am–9:30am | *Breakfast* |
+| 9:30am–10am | Introduction (Andrew Black, Nate Foster, Michael Greenberg, James Noble) |
+| 10am–10:30am | Record Types (Beppe Castagna) |
+| 10:30am–11am | *Coffee break* |
+| 11am–11:30am | Gradual typing in the Thorn Language (Jan Vitek) |
+| 11:30am–12pm | OO and Other Things (James Noble) |
+| 12pm–2pm | *Lunch* |
+| 2pm–2:30pm | Pedagogy and Quantum Computing (Jens Palsberg) |
+| 2:30pm–3pm | On Teaching Semantics (Kathi Fisler) |
+| 3pm–3:30pm | Language Formalization and Building Communities (Nate Foster) |
+| 3:30pm–4pm | *Coffee break* |
+| 4pm–5pm | Reminiscences |
+| 5pm–6pm | *Cocktail hour* |
+| 6pm–    | *Dinner* |
 
-  - Object-oriented programming and foundations
-  - Natural language semantics
-  - Pedagogy
-  - Community building
-  - Personal memories of Kim 
-
-as well as a rough talk length:
-
-  - Short (< 10 minutes)
-  - Full (20-30 minutes)
+If you are interested in speaking, please get in touch with [Michael Greenberg](mailto:michael.greenberg@stevens.edu).
 
 ## Travel
 
