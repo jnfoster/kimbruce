@@ -20,10 +20,11 @@ Photo Credit: [Nostalgicwisdom](https://commons.wikimedia.org/w/index.php?title=
 
 | Time | Topic |
 | :---------- | :------------------------------------------------- |
-| 9am–9:30am | *Breakfast* |
-| 9:30am–10am | Introduction (Andrew Black, Nate Foster, Michael Greenberg, James Noble) |
-| 10am–10:30am | Record Types (Beppe Castagna) |
-| 10:30am–11am | *Coffee break* |
+| 8am-9am | *Breakfast* |
+| 9am–9:30am |  Introduction (Andrew Black, Nate Foster, Michael Greenberg, James Noble) 
+| 9:30am–10am | Record Types (Beppe Castagna) |
+| 10am–10:30am | The Remaining Troublespots in Grace (Andrew Black)  |
+| 10:30am–11am | *Coffee break*  |
 | 11am–11:30am | Gradual typing in the Thorn Language (Jan Vitek) |
 | 11:30am–12pm | OO and Other Things (James Noble) |
 | 12pm–2pm | *Lunch* |
