@@ -7,12 +7,11 @@ Over a career spanning six decades, Kim has had an amazing impact as a researche
 <div style="clear:both;"></div>
 
 ## Location
+[Estella 1051/Argue Auditorium](https://www.pomona.edu/map/?id=523#!m/54436) at Pomona College, Claremont, CA
 
 ![Mason Hall](mason-hall.jpg)
+<small>Photo Credit: [Nostalgicwisdom](https://commons.wikimedia.org/w/index.php?title=User:Nostalgicwisdom&action=edit&redlink=1) under a [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.</small>
 
-Photo Credit: [Nostalgicwisdom](https://commons.wikimedia.org/w/index.php?title=User:Nostalgicwisdom&action=edit&redlink=1) under a [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.
-
-[Estella 1051/Argue Auditorium](https://www.pomona.edu/map/?id=523#!m/54436) at Pomona College, Claremont, CA; reception to follow
 
 <iframe src="https://www.pomona.edu/map/?id=523#!m/54436" width="100%" height="750px" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe>
 
