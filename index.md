@@ -20,8 +20,7 @@ Over a career spanning six decades, Kim has had an amazing impact as a researche
 | Time | Topic |
 | :---------- | :------------------------------------------------- |
 | 8am-9am | *Breakfast* |
-| 9am–9:30am |  Introduction (Andrew Black, Nate Foster, Michael Greenberg, James Noble) 
-| 9:30am–10am | Record Types (Beppe Castagna) |
+| 9am–10:00am |  Introduction and Surprise Guest (???)
 | 10am–10:30am | The Remaining Troublespots in Grace (Andrew Black)  |
 | 10:30am–11am | *Coffee break*  |
 | 11am–11:30am | Gradual typing in the Thorn Language (Jan Vitek) |
