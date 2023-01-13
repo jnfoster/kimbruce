@@ -28,7 +28,7 @@ Over a career spanning six decades, Kim has had an amazing impact as a researche
 | 12pm–2pm | *Lunch* |
 | 2pm–2:30pm | Pedagogy and Quantum Computing (Jens Palsberg) |
 | 2:30pm–3pm | On Teaching Semantics (Kathi Fisler) |
-| 3pm–3:30pm | Formal Foundations and Building Communities (Nate Foster) |
+| 3pm–3:30pm | Kim Bruce: A Legacy of Research and Mentoring (Nate Foster) |
 | 3:30pm–4pm | *Coffee break* |
 | 4pm–5pm | Reminiscences |
 | 5pm–6pm | *Cocktail hour* |
