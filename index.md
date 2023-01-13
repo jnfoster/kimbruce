@@ -22,14 +22,14 @@ Over a career spanning six decades, Kim has had an amazing impact as a researche
 | 8am-9am | *Breakfast* |
 | 9am–10:00am |  Introduction
 | 10am–10:30am | The Remaining Troublespots in Grace (Andrew Black)  |
-| 10:30am–11am | *Coffee break*  |
+| 10:30am–11am | *Break*  |
 | 11am–11:30am | Gradual typing in the Thorn Language (Jan Vitek) |
 | 11:30am–12pm | OO and Other Things (James Noble) |
 | 12pm–2pm | *Lunch* |
 | 2pm–2:30pm | Pedagogy and Quantum Computing (Jens Palsberg) |
 | 2:30pm–3pm | On Teaching Semantics (Kathi Fisler) |
 | 3pm–3:30pm | Formal Foundations and Building Communities (Nate Foster) |
-| 3:30pm–4pm | *Coffee break* |
+| 3:30pm–4pm | *Break* |
 | 4pm–5pm | Reminiscences |
 | 5pm–6pm | *Cocktail hour* |
 | 6:30pm–    | *Dinner at [Uno Tre Otto](https://www.unotreotto.com/)* |
