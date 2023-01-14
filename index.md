@@ -4,6 +4,9 @@
 
 Over a career spanning six decades, Kim has had an amazing impact as a researcher, educator, and community builder. We are planning a one-day workshop at Pomona College on **Friday, January 13th, 2023**, just before POPL. The workshop will feature contributed talks on topics related to Kim's interests (object-oriented programming, natural language semantics, pedagogy). We have made arrangements to publish post-proceedings as an edited volume in Dagstuhl's [OASIcs series](https://www.dagstuhl.de/en/publications/oasics/). We hope you will join us to celebrate Kim's career
 
+![Brucefest](brucefest_group_photo.jpg)
+<small>Photo credit: [Hannah de Keijzer](https://hannahdk.com/) under a [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.</small>
+
 <div style="clear:both;"></div>
 
 ## Location
@@ -20,7 +23,7 @@ Over a career spanning six decades, Kim has had an amazing impact as a researche
 | Time | Topic |
 | :---------- | :------------------------------------------------- |
 | 8am-9am | *Breakfast* |
-| 9am–10:00am |  Introduction
+| 9am–10:00am |  Introduction (Michael Greenberg), with pre-recorded comments from Beppe Longo, Takis Metaxas, Bob Harper, Martín Abadi, Sophia Drossopoulou, Benjamin Pierce, Phil Wadler, Jonathan Aldrich, Benjamin Goldberg, Gary Leavens, Shriram Krishnamurthi, Scott Smith, Tom Murtagh, Jon Riecke, Maud Mandel, David Oxtoby, and Gabrielle Starr |
 | 10am–10:30am | The Remaining Troublespots in Grace (Andrew Black)  |
 | 10:30am–11am | *Break*  |
 | 11am–11:30am | Gradual typing in the Thorn Language (Jan Vitek) |
@@ -34,6 +37,7 @@ Over a career spanning six decades, Kim has had an amazing impact as a researche
 | 5pm–6pm | *Cocktail hour* |
 | 6:30pm–    | *Dinner at [Uno Tre Otto](https://www.unotreotto.com/)* |
 
+<!--
 ## Travel
 
 Pomona College is in Claremont, CA, in the northeast corner of Los Angeles County. The Ontario, California airport (ONT) provides convenient access (<20min taxi), though LAX, BUR, LGB, and SNA are all within a 1-2 hour drive.
@@ -41,6 +45,7 @@ Pomona College is in Claremont, CA, in the northeast corner of Los Angeles Count
 ## Hotels
 
 The [Doubletree](https://www.hilton.com/en/hotels/ontcldt-doubletree-claremont/) and [Casa 425](https://www.casa425.com/) are both recommended.
+-->
 
 ## Organizers
 
