@@ -4,19 +4,10 @@
 
 Over a career spanning six decades, Kim has had an amazing impact as a researcher, educator, and community builder. We are planning a one-day workshop at Pomona College on **Friday, January 13th, 2023**, just before POPL. The workshop will feature contributed talks on topics related to Kim's interests (object-oriented programming, natural language semantics, pedagogy). We have made arrangements to publish post-proceedings as an edited volume in Dagstuhl's [OASIcs series](https://www.dagstuhl.de/en/publications/oasics/). We hope you will join us to celebrate Kim's career
 
-![Brucefest](brucefest_group_photo.jpg)
+![Brucefest](brucefest_group_photo.jpg){: style="padding-top:1em;" }
 <small>Photo credit: [Hannah de Keijzer](https://hannahdk.com/) under a [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.</small>
 
 <div style="clear:both;"></div>
-
-## Location
-[Estella 1051/Argue Auditorium](https://www.pomona.edu/map/?id=523#!m/54436) at Pomona College, Claremont, CA
-
-![Mason Hall](mason-hall.jpg)
-<small>Photo Credit: [Nostalgicwisdom](https://commons.wikimedia.org/w/index.php?title=User:Nostalgicwisdom&action=edit&redlink=1) under a [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.</small>
-
-
-<iframe src="https://www.pomona.edu/map/?id=523#!m/54436" width="100%" height="750px" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe>
 
 ## Agenda for Friday, January 13th, 2023
 
@@ -36,6 +27,8 @@ Over a career spanning six decades, Kim has had an amazing impact as a researche
 | 4pm–5pm | Reminiscences |
 | 5pm–6pm | *Cocktail hour* |
 | 6:30pm–    | *Dinner at [Uno Tre Otto](https://www.unotreotto.com/)* |
+
+We met in [Estella 1051/Argue Auditorium](https://www.pomona.edu/map/?id=523#!m/54436) at Pomona College, Claremont, CA.
 
 <!--
 ## Travel
