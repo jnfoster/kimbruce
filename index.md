@@ -2,7 +2,7 @@
 
 ![Kim Bruce](bruce-kim-2006.jpg){: style="margin-right:10px; float: left"}
 
-Over a career spanning six decades, Kim has had an amazing impact as a researcher, educator, and community builder. We are planning a one-day workshop at Pomona College on **Friday, January 13th, 2023**, just before POPL. The workshop will feature contributed talks on topics related to Kim's interests (object-oriented programming, natural language semantics, pedagogy). We have made arrangements to publish post-proceedings as an edited volume in Dagstuhl's [OASIcs series](https://www.dagstuhl.de/en/publications/oasics/). We hope you will join us to celebrate Kim's career
+Over a career spanning six decades, Kim has had an amazing impact as a researcher, educator, and community builder. We are planning a one-day workshop at Pomona College on **Friday, January 13th, 2023**, just before POPL. The workshop will feature contributed talks on topics related to Kim's interests (object-oriented programming, natural language semantics, pedagogy). We hope you will join us to celebrate Kim's career
 
 ![Brucefest](brucefest_group_photo.jpg){: style="padding-top:1em;" }
 <small>Photo credit: [Hannah de Keijzer](https://hannahdk.com/) under a [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.</small>
